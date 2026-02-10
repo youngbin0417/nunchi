@@ -8,7 +8,7 @@ This repository contains the official public documentation for NUNCHI, an AI-dri
 
 NUNCHI is designed as a distributed, asynchronous system to handle complex AI computational tasks efficiently:
 
-- Frontend: Next.js based interface for user interaction.
+- Frontend: Dart based interface for user interaction.
 - API Server: FastAPI based coordination layer.
 - AI Worker: Distributed Celery workers for inference tasks.
 - Message Broker: Redis for task scheduling and state management.
